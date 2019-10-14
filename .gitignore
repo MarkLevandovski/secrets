@@ -20,4 +20,5 @@ target/
 
 mvnw
 mvnw.cmd
-secret.iml
+secrets.iml
+HELP.md
